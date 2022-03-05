@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_country">
+        <item>Битола</item>
+        <item>Велес</item>
+        <item>Гевгелија</item>
+        <item>Гостивар</item>
+        <item>Дебар</item>
+        <item>Крушево</item>
+        <item>Куманово</item>
+        <item>Охрид</item>
+        <item>Радовиш</item>
+        <item>Прилеп</item>
+        <item>Скопје</item>
+        <item>Струга</item>
+        <item>Тетово</item>
+    </string-array>
+
+    <string-array name="array_category" >
+    <item>Култура</item>
+    <item>Уметност</item>
+    </string-array>
+</resources>

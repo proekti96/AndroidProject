@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988949584155",
+    "firebase_url": "https://digit2020-5f1b6-default-rtdb.firebaseio.com",
+    "project_id": "digit2020-5f1b6",
+    "storage_bucket": "digit2020-5f1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988949584155:android:283b0c256d56e14ae99bbe",
+        "android_client_info": {
+          "package_name": "com.example.cultureevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988949584155-lvnk5gtboor6j9j6tt55dhp0qoflp2k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUITwK4w47GZdsrSNBzoBZbozQPdESpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988949584155-lvnk5gtboor6j9j6tt55dhp0qoflp2k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
